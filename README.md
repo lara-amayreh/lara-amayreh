@@ -2,7 +2,20 @@
 - I'm computer engineer 
 -graduated from JUST University
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning Frontend web development 
+- 🌱 I’m a Frontend web developer
+- my skills :
+- HTML
+- CSS
+- JAVASCRIPT
+- TYPESCRIPT
+- BOOTSTRAP
+- ANGULAR 
+- REACT JS
+- GOOGLE FIREBASE
+- RESTFULL API
+- AJAX
+- [Lara_Amayreh_CV.pdf](https://github.com/lara-amayreh/lara-amayreh/files/10929139/Lara_Amayreh_CV.pdf)
+
 
 <!---
 lara-amayreh/lara-amayreh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
