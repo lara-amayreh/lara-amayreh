@@ -2,7 +2,7 @@
 - I'm computer engineer 
 -graduated from JUST University
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m a Frontend web developer @ logistaas
+- 🌱 I’m a Frontend developer @ logistaas
 - my skills :
 - HTML
 - CSS
